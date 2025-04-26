@@ -22,6 +22,7 @@ header {
 
 .navbar {
     display: flex;
+    position: fixed;
     align-items: center;
     width: auto; /* Biarkan lebarnya menyesuaikan konten menu */
     background-color: rgba(0, 0, 0, 0.7); /* Ganti warna latar belakang menjadi hitam semi-transparan */
